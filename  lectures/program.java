@@ -310,14 +310,14 @@
 // }
 
 // ТЕРНАРНЫЙ ОПЕРАТОР:=============================
-// public class program {
-//     public static void main(String[] args) {
-//         int a = 1;
-//         int b = 2;
-//         int min = a < b ? a : b;
-//         System.out.println(min);
-//     }
-// }
+public class program {
+    public static void main(String[] args) {
+        int a = 1;
+        int b = 2;
+        int min = a < b ? a : b;
+        System.out.println(min);
+    }
+}
 
 // ОПЕРАТОР ВЫБОРА:===========================
 // import java.util.Scanner;
