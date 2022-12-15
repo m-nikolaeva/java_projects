@@ -1,4 +1,4 @@
-
+package sem_02;
 /* Напишите метод, который сжимает строку. Пример: вход aaaabbbcdd. результат - a4b3cd2 */
 import java.util.Scanner;
 

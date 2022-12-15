@@ -1,3 +1,5 @@
+package sem_02;
+
 import java.util.Scanner;
 
 /* Напишите метод, который принимает на вход строку (String) 
